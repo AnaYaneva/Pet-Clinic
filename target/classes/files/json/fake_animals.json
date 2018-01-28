@@ -1,0 +1,35 @@
+[
+  {
+    "name":"Bethy",
+    "type":"cat",
+    "age": 2,
+    "passport": {
+      "serialNumber": "etghGgH678",
+      "ownerName": "Colin McBegger",
+      "ownerPhoneNumber": "+359689776512",
+      "registrationDate": "12-03-2014"
+    }
+  },
+  {
+    "name":"Harry",
+    "type":"dog",
+    "age": 4,
+    "passport": {
+      "serialNumber": "anoghdv650",
+      "ownerName": "Magda Jeromy",
+      "ownerPhoneNumber": "+359689996512",
+      "registrationDate": "15-04-2015"
+    }
+  },
+  {
+    "name":"Chester",
+    "type":"dog",
+    "age": 11,
+    "passport": {
+      "serialNumber": "adogches451",
+      "ownerName": "Adrianna Davis",
+      "ownerPhoneNumber": "+359689776512",
+      "registrationDate": "31-12-2016"
+    }
+  }
+]

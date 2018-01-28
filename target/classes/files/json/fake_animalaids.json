@@ -1,0 +1,57 @@
+[
+  {
+    "name":"Bella",
+    "type":"cat",
+    "age": 2,
+    "passport": {
+      "serialNumber": "etyhGgH678",
+      "ownerName": "Sheldon Cooper",
+      "ownerPhoneNumber": "07556446",
+      "registrationDate": "12-03-2014"
+    }
+  },
+  {
+    "name":"Ch",
+    "type":"cat",
+    "age": 3,
+    "passport": {
+      "serialNumber": "anothev650",
+      "ownerName": "Magda Bjork",
+      "ownerPhoneNumber": "+359989776512",
+      "registrationDate": "15-04-2015"
+    }
+  },
+  {
+    "name":"Chester",
+    "type":"dog",
+    "age": 11,
+    "passport": {
+      "serialNumber": "adoggoo451",
+      "ownerName": "Adriana Lima",
+      "ownerPhoneNumber": "+35989776512",
+      "registrationDate": "31-12-2016"
+    }
+  },
+  {
+    "name":"Chester",
+    "type":"dog",
+    "age": 11,
+    "passport": {
+      "serialNumber": "adog3oo451",
+      "ownerName": "Adriana Lima",
+      "ownerPhoneNumber": "+35989776512",
+      "registrationDate": "31-12-2016"
+    }
+  },
+  {
+    "name":"Chester",
+    "type":"dog",
+    "age": 11,
+    "passport": {
+      "serialNumber": "adogooo451",
+      "ownerName": "Ad",
+      "ownerPhoneNumber": "+35989776512",
+      "registrationDate": "31-12-2016"
+    }
+  }
+]
